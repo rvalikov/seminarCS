@@ -1,0 +1,15 @@
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\Task_stgment.csproj.AssemblyReference.cache
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\Task_stgment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\Task_stgment.AssemblyInfoInputs.cache
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\Task_stgment.AssemblyInfo.cs
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\Task_stgment.csproj.CoreCompileInputs.cache
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\bin\Debug\net6.0\Task_stgment.exe
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\bin\Debug\net6.0\Task_stgment.deps.json
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\bin\Debug\net6.0\Task_stgment.runtimeconfig.json
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\bin\Debug\net6.0\Task_stgment.dll
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\bin\Debug\net6.0\Task_stgment.pdb
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\Task_stgment.dll
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\refint\Task_stgment.dll
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\Task_stgment.pdb
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\Task_stgment.genruntimeconfig.cache
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\Task_stgment\obj\Debug\net6.0\ref\Task_stgment.dll

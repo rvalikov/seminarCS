@@ -1,0 +1,15 @@
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\bin\Debug\net6.0\TaskAdd.exe
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\bin\Debug\net6.0\TaskAdd.deps.json
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\bin\Debug\net6.0\TaskAdd.runtimeconfig.json
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\bin\Debug\net6.0\TaskAdd.dll
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\bin\Debug\net6.0\TaskAdd.pdb
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\TaskAdd.csproj.AssemblyReference.cache
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\TaskAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\TaskAdd.AssemblyInfoInputs.cache
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\TaskAdd.AssemblyInfo.cs
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\TaskAdd.csproj.CoreCompileInputs.cache
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\TaskAdd.dll
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\refint\TaskAdd.dll
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\TaskAdd.pdb
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\TaskAdd.genruntimeconfig.cache
+C:\Users\rvali\Desktop\C#\seminarCS\seminar2\TaskAdd\obj\Debug\net6.0\ref\TaskAdd.dll
